@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "046b0b0c4aba1beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "249df952aa33108d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/test.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fecf637cb62b12f",
+    "type": "split",
+    "children": [
+      {
+        "id": "89599277fbf5c62c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d04e44ec500df8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c919c378ac357dcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c9bcc7ac7edca98",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8976592decd5785a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0000cb9a2006b8ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c29234cd6afeaa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38fc2a4b343cd346",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "707833a7cf065e9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Base/test.md",
+    "Base/00 Intro kursi.md",
+    "Base/00 kursi.md",
+    "Base/Знания.md",
+    "Base/00 jopa.md",
+    "Templates/0 New Note.md",
+    "Templates/Untitled 1.md",
+    "Templates/Untitled.md",
+    "index.html/Untitled.md",
+    "Untitled.md"
+  ]
+}
